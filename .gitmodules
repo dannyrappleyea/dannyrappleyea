@@ -4,3 +4,6 @@
 [submodule "hacking"]
 	path = hacking
 	url = https://github.com/digitalreplica/hacking.git
+[submodule "digitalreplica"]
+	path = digitalreplica
+	url = https://github.com/digitalreplica/digitalreplica.git
