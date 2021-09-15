@@ -1,3 +1,6 @@
 [submodule "interests"]
 	path = interests
 	url = https://github.com/dannyrappleyea/interests.git
+[submodule "hacking"]
+	path = hacking
+	url = https://github.com/digitalreplica/hacking.git
