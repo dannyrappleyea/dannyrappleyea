@@ -10,3 +10,4 @@ I have an individual LLC named [DigitalReplica](https://github.com/digitalreplic
 
 # Patronage
 Please support my work, with anything from a $1 one-time like, to monthly subscriptions.
+* [ko-fi.com/digitalreplica](https://ko-fi.com/digitalreplica)
