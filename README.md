@@ -9,5 +9,6 @@ I have an individual LLC named [DigitalReplica](https://github.com/digitalreplic
 [Knowledge Repo](https://github.com/dannyrappleyea/knowledge): I'm experimenting with keeping my notes around specific topics in git repos, all linked together into a single knowledge repo.
 
 # Patronage
-Please support my work, with anything from a $1 one-time like, to monthly subscriptions.
+If you find my work useful or inspiring, please consider a small one-time donation to say thank you, or a recurring donation to support future work.
+* [github.com/digitalreplica](https://github.com/sponsors/digitalreplica)
 * [ko-fi.com/digitalreplica](https://ko-fi.com/digitalreplica)
