@@ -21,6 +21,6 @@ DigitalReplica notes
 [Experimental app](https://dannyrappleyea.github.io/git-knowledge-app/) to find any public notes quickly.
 
 # Patronage
-If you find my work useful or inspiring, please consider a small one-time donation to say thank you, or a recurring donation to support future work.
+If you find my work useful or inspiring, please consider a small one-time donation to say thank you, or a recurring donation to support future work. You can pay via:
 * [GitHub Sponsors](https://github.com/sponsors/digitalreplica)
 * [Ko-fi.com](https://ko-fi.com/digitalreplica)
