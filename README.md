@@ -22,5 +22,5 @@ DigitalReplica notes
 
 # Patronage
 If you find my work useful or inspiring, please consider a small one-time donation to say thank you, or a recurring donation to support future work.
-* [github.com/digitalreplica](https://github.com/sponsors/digitalreplica)
-* [ko-fi.com/digitalreplica](https://ko-fi.com/digitalreplica)
+* [GitHub Sponsors](https://github.com/sponsors/digitalreplica)
+* [Ko-fi.com](https://ko-fi.com/digitalreplica)
