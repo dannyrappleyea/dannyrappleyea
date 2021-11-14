@@ -7,9 +7,9 @@ That last designation is becoming increasing important as the world shifts to al
 Many of my notes are stored in public git repositories.
 
 Personal notes
+* [dannyrappleyea/notes](https://github.com/dannyrappleyea/notes): Personal notes
 * [dannyrappleyea/interests](https://github.com/dannyrappleyea/interests): Random assortment of things I'm interested in.
 * [dannyrappleyea/cocktails](https://github.com/dannyrappleyea/cocktails): Cocktail recipes and amateur bartender notes.
-* [dannyrappleyea/products](https://github.com/dannyrappleyea/products): Product reviews and notes.
 
 DigitalReplica notes
 * [digitalreplica/hacking](https://github.com/digitalreplica/hacking): I'm a penetration tester. Here are my notes.
