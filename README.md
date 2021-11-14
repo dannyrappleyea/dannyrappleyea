@@ -18,7 +18,7 @@ DigitalReplica notes
 * [digitalreplica/git-knowledge](https://github.com/digitalreplica/git-knowledge): Exploring how to link multiple notes repositories into a larger knowledge system.
 * [digitalreplica/single-member-llc](https://github.com/digitalreplica/single-member-llc): How to create a minimal, single-member LLC.
 
-[Experimental app](https://dannyrappleyea.github.io/git-knowledge-app/) to find any public notes quickly.
+[Experimental app](https://dannyrappleyea.github.io/knowledge/) to find any public notes quickly.
 
 # Patronage
 If you find my work useful or inspiring, please consider a small one-time donation to say thank you, or a recurring donation to support future work. You can pay via:
