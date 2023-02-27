@@ -1,6 +1,0 @@
-[submodule "interests"]
-	path = interests
-	url = https://github.com/dannyrappleyea/interests.git
-[submodule "digitalreplica"]
-	path = digitalreplica
-	url = https://github.com/digitalreplica/digitalreplica.git
