@@ -1,8 +1,6 @@
 ---
 is:
-  - "[[brewery]]"
   - "[[cidery]]"
-location: 
-rating:
+location:
 ---
 # Notes

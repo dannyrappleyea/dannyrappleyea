@@ -1,6 +1,7 @@
 ---
 is:
   - "[[brewery]]"
+  - "[[cidery]]"
 location: "[[Bethlehem (Pennsylvania)]]"
 rating: 🤞
 ---

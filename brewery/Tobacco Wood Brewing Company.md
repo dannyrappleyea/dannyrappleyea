@@ -2,7 +2,7 @@
 is:
   - "[[brewery]]"
   - "[[restaurant]]"
-location: "[[Durham - North Carolina]]"
+location: "[[Durham (North Carolina)]]"
 urls:
   - https://www.tobaccowoodbrewing.com/
 rating: 👍👍
