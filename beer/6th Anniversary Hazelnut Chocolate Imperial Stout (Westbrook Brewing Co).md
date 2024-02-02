@@ -3,7 +3,9 @@ is:
   - "[[beer]]"
   - "[[note]]"
 name: 6th Anniversary Hazelnut Chocolate Imperial Stout
-style: Stout - Imperial / Double
+style:
+  - "[[stout]]"
+  - "[[imperial stout]]"
 brewery: "[[Westbrook Brewing Co]]"
 abv: 10
 rating: 👍👍
