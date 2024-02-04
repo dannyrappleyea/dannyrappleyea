@@ -6,5 +6,5 @@ rating: 👍👍
 urls:
   - https://5mcider.com/
 ---
-# Log
+# Notes
 - awesome little cider place

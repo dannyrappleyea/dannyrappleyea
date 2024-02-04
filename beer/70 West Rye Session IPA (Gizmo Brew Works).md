@@ -3,7 +3,9 @@ is:
   - "[[beer]]"
   - "[[note]]"
 name: 70 West Rye Session IPA
-style: IPA - Rye
+style:
+  - "[[ipa]]"
+  - "[[ipa rye]]"
 brewery: "[[Gizmo Brew Works]]"
 abv: 5
 rating: 👍
