@@ -2,6 +2,8 @@
 is:
   - "[[brewery]]"
 location: 
-rating:
+rating: 
+aliases:
+  - Troegs Independent Brewing
 ---
 # Notes
