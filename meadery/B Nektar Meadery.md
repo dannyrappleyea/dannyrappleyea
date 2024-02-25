@@ -1,0 +1,6 @@
+---
+is:
+  - "[[meadery]]"
+location:
+---
+# Notes
