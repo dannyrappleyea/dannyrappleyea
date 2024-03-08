@@ -5,15 +5,15 @@ is:
 author:
   - "[[A. K. Larkwood]]"
 genre: fantasy
-series: 
-series-number: 
+series: The Serpent Gates Series
+series-number: 2
 title: The Thousand Eyes
 publisher: Tor Books
 published: 2022-02-15
 isbn: "1250238935"
 isbn13: "9781250238931"
 category: Fiction
-rating: "👍"
+rating: 👍
 last: "[[2024-02]]"
 ---
 # Notes

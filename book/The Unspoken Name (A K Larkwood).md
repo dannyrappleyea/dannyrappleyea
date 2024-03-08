@@ -5,8 +5,8 @@ is:
 author:
   - "[[A. K. Larkwood]]"
 genre: fantasy
-series: 
-series-number: 
+series: The Serpent Gates Series
+series-number: 1
 title: The Unspoken Name
 publisher: Tor Books
 published: 2020-02-11
