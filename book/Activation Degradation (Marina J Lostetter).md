@@ -17,4 +17,4 @@ rating: 🤞
 last: "[[2024-05]]"
 ---
 # Notes
-- Didn't finish. Somewhat interesting, but the comparison to Murderbot is not really accurate. If bored, might want to re-pickup.
+- Somewhat interesting, but the comparison to Murderbot is not really accurate. Character motivations are written in a pretty blatant, childish way
