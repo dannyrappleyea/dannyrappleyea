@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Big Hugs Imperial Stout brewed with Coffee

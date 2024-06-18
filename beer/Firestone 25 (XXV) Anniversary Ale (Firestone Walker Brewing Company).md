@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Firestone 25 (XXV) Anniversary Ale

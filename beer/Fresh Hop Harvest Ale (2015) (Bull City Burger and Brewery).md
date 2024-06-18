@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Fresh Hop Harvest Ale 2015

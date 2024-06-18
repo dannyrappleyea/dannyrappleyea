@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: La Folie (Lips of Faith) (2016)

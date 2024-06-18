@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Jai Alai
 style: IPA - American
 brewery: "[[Cigar City Brewing]]"

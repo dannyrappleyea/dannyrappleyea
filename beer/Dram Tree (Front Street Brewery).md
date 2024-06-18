@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Scotch Ale - Wee Heavy
 brewery: "[[Front Street Brewery]]"

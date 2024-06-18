@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liquor]]"
 name: Conniption American Dry Gin
 style: Liquor - Gin

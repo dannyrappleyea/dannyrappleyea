@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Imperial Stout Sherry Cask
 style: Stout - Russian Imperial
 brewery: "[[Boyne Brewhouse]]"

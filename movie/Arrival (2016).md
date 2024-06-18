@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[movie]]"
 genre: science fiction
 language: english

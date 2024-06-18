@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Mosaic Pale Ale

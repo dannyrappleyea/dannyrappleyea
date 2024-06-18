@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liquor]]"
 name: Angel's Envy Bourbon - port finish
 style: Liquor - Bourbon

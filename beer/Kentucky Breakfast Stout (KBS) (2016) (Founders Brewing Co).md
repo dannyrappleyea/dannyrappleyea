@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Kentucky Breakfast Stout (KBS) (2016) 12.4%

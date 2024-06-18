@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Jed's Mule Kicker
 style: Hard Ginger Beer
 brewery: "[[Saranac Brewery]]"

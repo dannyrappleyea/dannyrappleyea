@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
   - "[[note]]"
 name: Steep Series - Chocolate Black Tea

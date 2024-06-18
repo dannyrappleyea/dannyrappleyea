@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Stout - Imperial
 brewery: "[[The Glass Jug Beer Lab]]"

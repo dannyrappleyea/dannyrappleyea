@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[mead]]"
   - "[[note]]"
 name: Dirty Chai Mead On Nitro

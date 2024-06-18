@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Blackboard Series (no. 01) Agave IPA w- Grapefruit

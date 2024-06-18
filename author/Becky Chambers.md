@@ -1,3 +1,3 @@
 ---
-is: "[[author]]"
+is_a: "[[author]]"
 ---

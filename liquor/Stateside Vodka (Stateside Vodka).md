@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liquor]]"
 name: Stateside Vodka
 style: Liquor - Vodka

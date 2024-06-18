@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liquor]]"
 name: Conniption Navy Strength Gin
 style: Liquor - Gin

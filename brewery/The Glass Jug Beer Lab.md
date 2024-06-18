@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[brewery]]"
 location: "[[Durham (North Carolina)]]"
 rating: 👍👍

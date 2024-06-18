@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: She Wants Me - Cherry-Bourbon Spiced Ale

@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cocktail]]"
   - "[[recipe]]"
 rating: 👍👍

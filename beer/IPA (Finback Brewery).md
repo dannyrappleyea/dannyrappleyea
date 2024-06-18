@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: IPA
 style: IPA - American
 brewery: "[[Finback Brewery]]"

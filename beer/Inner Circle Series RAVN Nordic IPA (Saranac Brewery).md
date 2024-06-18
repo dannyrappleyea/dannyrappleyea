@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Inner Circle Series RAVN Nordic IPA
 style: IPA - Imperial - Double Black
 brewery: "[[Saranac Brewery]]"

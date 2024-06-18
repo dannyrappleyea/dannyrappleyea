@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Dragon’s Milk Reserve  Double Bourbon Barrel-Aged Stout With Madagascar & Indonesian Vanilla Beans (2021-2)

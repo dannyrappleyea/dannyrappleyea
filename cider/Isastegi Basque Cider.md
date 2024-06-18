@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
 type: 
 cidery: "[[]]"

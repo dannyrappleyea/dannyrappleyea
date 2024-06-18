@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liquor]]"
 name: Cold Distilled Cucumber Vodka
 style: Liquor - Vodka

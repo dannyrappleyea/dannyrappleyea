@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
   - "[[note]]"
 name: Hop'n Mad Apple

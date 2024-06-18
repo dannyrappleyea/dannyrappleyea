@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Gizmo Damn Right Pineapple And Mango Milkshake IPA

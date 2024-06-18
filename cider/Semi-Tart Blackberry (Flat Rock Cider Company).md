@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
 name: Semi-Tart Blackberry
 style: Cider - Dry

@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Kitten Biscuit
 style: IPA - New England - Hazy
 brewery: "[[Wilmington Brewing Company]]"

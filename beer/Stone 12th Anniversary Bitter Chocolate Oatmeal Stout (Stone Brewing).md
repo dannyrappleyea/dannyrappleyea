@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: 20th Anniversary Encore Series - Stone 12th Anniversary Bitter Chocolate Oatmeal Stout

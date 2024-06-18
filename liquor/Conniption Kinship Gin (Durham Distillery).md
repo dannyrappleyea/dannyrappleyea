@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liquor]]"
 name: Conniption Kinship Gin
 style: Liquor - Gin

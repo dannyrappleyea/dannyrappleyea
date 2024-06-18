@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Wake-n-Bake Coffee Oatmeal Imperial Stout (2015)

@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Cinnamon Roll'd Wake-N-Bake (2015)

@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liquor]]"
 name: Revivalist Botanical Gin - Equinox
 style: Liquor - Gin

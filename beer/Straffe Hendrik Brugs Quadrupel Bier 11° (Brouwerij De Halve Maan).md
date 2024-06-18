@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Straffe Hendrik Brugs Quadrupel Bier 11°

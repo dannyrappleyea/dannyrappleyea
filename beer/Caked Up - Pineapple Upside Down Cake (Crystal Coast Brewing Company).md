@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Sour - Fruited
 brewery: "[[Crystal Coast Brewing Company]]"

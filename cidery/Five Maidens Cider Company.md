@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cidery]]"
 location: "[[Bethlehem (Pennsylvania)]]"
 rating: 👍👍

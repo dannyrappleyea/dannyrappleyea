@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
 style: Cider - Dry
 cidery: "[[Seven Sirens Brewing Co]]"

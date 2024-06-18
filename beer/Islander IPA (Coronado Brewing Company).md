@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Islander IPA
 style: IPA - American
 brewery: "[[Coronado Brewing Company]]"

@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
 name: Original
 style: Cider - Dry

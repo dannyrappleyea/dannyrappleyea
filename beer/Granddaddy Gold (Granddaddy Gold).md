@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 name: "[[Granddaddy Gold]]"
 beer-style: Kolsch

@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
 name: Valance
 style: Cider - Other Fruit

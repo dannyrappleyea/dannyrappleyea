@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
 style: Cider - Herbed - Spiced - Hopped
 cidery: "[[Five Maidens Cider Company]]"

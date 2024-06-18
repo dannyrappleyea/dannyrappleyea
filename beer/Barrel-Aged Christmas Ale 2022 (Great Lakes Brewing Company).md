@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Winter Ale
 brewery: "[[Great Lakes Brewing Company]]"

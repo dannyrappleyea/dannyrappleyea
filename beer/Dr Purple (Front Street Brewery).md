@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Sour - Barrel Aged
 brewery: "[[Front Street Brewery]]"

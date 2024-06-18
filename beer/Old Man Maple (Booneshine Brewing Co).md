@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 name: Old Man Maple
 beer-style: Stout - Russian Imperial

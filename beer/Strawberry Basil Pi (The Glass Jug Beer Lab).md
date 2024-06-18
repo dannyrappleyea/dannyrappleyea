@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Sour - Traditional Gose
 brewery: "[[The Glass Jug Beer Lab]]"

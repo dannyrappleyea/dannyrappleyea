@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Infidel Porter
 style: Porter - Other
 brewery: "[[Wicked Weed Brewing]]"

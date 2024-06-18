@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Intergalactic Black IPA
 style: IPA - Black - Cascadian Dark Ale
 brewery: "[[Bill's Brewing Co]]"

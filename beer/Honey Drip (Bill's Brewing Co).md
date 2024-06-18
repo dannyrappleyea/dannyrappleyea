@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Brown Ale - American
 brewery: "[[Bill's Brewing Co]]"

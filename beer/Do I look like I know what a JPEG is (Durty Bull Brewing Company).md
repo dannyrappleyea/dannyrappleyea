@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: IPA - New England - Hazy
 brewery: "[[Durty Bull Brewing Company]]"

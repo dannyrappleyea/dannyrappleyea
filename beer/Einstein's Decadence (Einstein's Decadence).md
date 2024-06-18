@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: IPA - Imperial - Double
 brewery: "[[Einstein's Decadence (Einstein's Decadence)]]"

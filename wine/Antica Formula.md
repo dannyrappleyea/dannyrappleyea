@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[wine]]"
 style: Fortified Wine - Vermouth - Red
 winery: "[[Fratelli Branca Distillerie]]"

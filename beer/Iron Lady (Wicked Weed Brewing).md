@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Iron Lady
 style: IPA - Imperial - Double Black
 brewery: "[[Wicked Weed Brewing]]"

@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: 6th Anniversary Hazelnut Chocolate Imperial Stout

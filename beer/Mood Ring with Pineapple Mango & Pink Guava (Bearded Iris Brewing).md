@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Mood Ring W- Pineapple, Mango, & Pink Guava

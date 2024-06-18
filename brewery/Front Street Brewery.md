@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[brewery]]"
   - "[[restaurant]]"
 location: "[[Wilmington - North Carolina]]"

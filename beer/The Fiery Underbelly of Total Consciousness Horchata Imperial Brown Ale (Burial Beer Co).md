@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: The Fiery Underbelly of Total Consciousness Horchata Imperial Brown Ale

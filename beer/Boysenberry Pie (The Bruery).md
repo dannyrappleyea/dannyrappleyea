@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Stout - Imperial / Double Pastry
 brewery: "[[The Bruery]]"

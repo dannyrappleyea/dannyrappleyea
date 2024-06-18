@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Hazed and Pepper Infused (Jalapeno-Habanero)

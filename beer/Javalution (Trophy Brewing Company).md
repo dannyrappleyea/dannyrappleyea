@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: Javalution
 style: Stout - American
 brewery: "[[Trophy Brewing Company]]"

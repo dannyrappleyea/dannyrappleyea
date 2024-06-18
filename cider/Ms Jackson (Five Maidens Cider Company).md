@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
 style: Cider - Sweet
 cidery: "[[Five Maidens Cider Company]]"

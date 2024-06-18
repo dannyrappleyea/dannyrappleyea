@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Stone RuinTen Triple IPA w- Orange Peel & Vanilla Bean

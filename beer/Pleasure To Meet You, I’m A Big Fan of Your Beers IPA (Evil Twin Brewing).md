@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
   - "[[note]]"
 name: Pleasure To Meet You, I’m A Big Fan of Your Beers IPA

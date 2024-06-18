@@ -1,5 +1,5 @@
 ---
-is: "[[beer]]"
+is_a: "[[beer]]"
 name: It's Always Stout Season Episode 2
 style: Stout - Imperial / Double Pastry
 brewery: "[[Heist Brewery]]"

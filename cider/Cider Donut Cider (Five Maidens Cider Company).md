@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[cider]]"
 name: Cider Donut Cider
 style: Cider - Sweet

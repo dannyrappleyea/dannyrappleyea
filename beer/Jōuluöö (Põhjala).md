@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[beer]]"
 style: Porter - Imperial - Double
 brewery: "[[Põhjala]]"

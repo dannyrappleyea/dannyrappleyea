@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liquor]]"
 name: Slane Irish Whiskey
 style: Liquor - Whiskey

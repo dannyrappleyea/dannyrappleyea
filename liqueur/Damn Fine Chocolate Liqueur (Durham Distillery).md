@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[liqueur]]"
 name: Damn Fine Chocolate Liqueur
 style: Liqueur
