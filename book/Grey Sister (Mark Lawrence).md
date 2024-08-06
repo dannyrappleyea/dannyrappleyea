@@ -4,9 +4,9 @@ is_a:
   - "[[note]]"
 author:
   - "[[Mark Lawrence]]"
-genre: 
-series: 
-series-number: 
+genre: fantasy
+series: The Book of the Ancestor
+series-number: 2
 title: Grey Sister
 publisher: Penguin
 published: 2018-04-03

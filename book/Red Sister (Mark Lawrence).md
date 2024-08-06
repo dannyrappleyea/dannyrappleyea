@@ -5,8 +5,8 @@ is_a:
 author:
   - "[[Mark Lawrence]]"
 genre: fantasy
-series: 
-series-number: 
+series: The Book of the Ancestor
+series-number: 1
 title: Red Sister
 publisher: Penguin
 published: "2017"
