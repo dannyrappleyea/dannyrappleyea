@@ -1,5 +1,5 @@
 ---
-is_a:
+is-a:
   - "[[word]]"
 urls:
   - https://en.wiktionary.org/wiki/revenant
